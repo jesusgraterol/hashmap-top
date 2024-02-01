@@ -1,8 +1,6 @@
-/* import nodeFactory from './node'; */
-
 /**
  * LinkedList Factory
- * Class in charge of implementing the LinkedList Data Structure.
+ * Module in charge of implementing the LinkedList Data Structure.
  */
 const linkedListFactory = () => {
   /* *******************
